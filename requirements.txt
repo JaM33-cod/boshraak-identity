@@ -1,7 +1,6 @@
 flask
-gunicorn
-pillow
 rembg
-onnxruntime
-numpy
+pillow
 opencv-python-headless
+numpy
+gunicorn
